@@ -15,10 +15,18 @@ I help founders and businesses build scalable **SaaS products** and high-perform
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** JavaScript (ES6+), TypeScript, SQL
-* **Frontend:** React.js, Next.js, Tailwind CSS, Redux, HTML5, CSS3
-* **Backend:** Node.js, Express.js, PostgreSQL, MongoDB
-* **Tools:** Git, Postman, Vercel
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
 
 ---
 
