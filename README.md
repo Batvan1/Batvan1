@@ -17,7 +17,7 @@ I help founders and businesses build scalable **SaaS products** and high-perform
 ### 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,redux,git,postman,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,html,css,redux,git,postman,vercel,vscode" />
 </div>
 
 
