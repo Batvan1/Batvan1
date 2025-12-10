@@ -49,6 +49,12 @@ I am currently available for freelance work. Let's discuss how I can bring your 
   <img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me on Upwork" />
 </a>
 
+<div align="left">
+  <a href="https://www.upwork.com/freelancers/~01d77f12fef7ecb355" target="_blank">
+    <img src="https://skillicons.dev/icons?i=upwork" alt="Upwork" />
+  </a>
+</div>
+
 [📧 Email Me](mailto:seninmailin@example.com) | [🔗 LinkedIn](linkedin_linkin)
 
 <!--
