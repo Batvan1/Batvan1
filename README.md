@@ -45,7 +45,7 @@ I help founders and businesses build scalable **SaaS products** and high-perform
 
 I am currently available for freelance work. Let's discuss how I can bring your idea to life.
 
-<a href="SENİN_UPWORK_PROFİL_LİNKİN" target="_blank">
+<a href="https://www.upwork.com/freelancers/~01d77f12fef7ecb355" target="_blank">
   <img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me on Upwork" />
 </a>
 
