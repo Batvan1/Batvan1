@@ -44,11 +44,9 @@ I help founders and businesses build scalable **SaaS products** and high-perform
 
 I am currently available for freelance work. Let's discuss how I can bring your idea to life.
 
-<div align="left">
-  <a href="mailto:seninmailin@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-  </a>
-</div>
+<a href="https://www.upwork.com/freelancers/~01d77f12fef7ecb355" target="_blank">
+  <img src="https://img.shields.io/badge/Hire%20Me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me on Upwork" />
+</a>
 
 [📧 Email Me](mailto:seninmailin@example.com) | [🔗 LinkedIn](linkedin_linkin)
 
