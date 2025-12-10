@@ -5,7 +5,7 @@
 I help founders and businesses build scalable **SaaS products** and high-performance **Web Applications**. If you are looking for a developer who cares about code quality, user experience, and meeting deadlines, you are in the right place.
 
 ---
-
+ 
 ### 🚀 What I Can Do For You
 *   **Front-End:** converting Figma designs into pixel-perfect, responsive React/Next.js applications.
 *   **Back-End:** Building robust REST APIs and handling database architecture with Node.js.
@@ -15,10 +15,10 @@ I help founders and businesses build scalable **SaaS products** and high-perform
 ---
 
 ### 🛠 Tech Stack
-**Languages:** JavaScript (ES6+), TypeScript, SQL
-**Frontend:** React.js, Next.js, Tailwind CSS, Redux, HTML5, CSS3
-**Backend:** Node.js, Express.js, PostgreSQL, MongoDB, Firebase
-**Tools:** Git, Docker, Postman, Vercel, AWS
+* **Languages:** JavaScript (ES6+), TypeScript, SQL
+* **Frontend:** React.js, Next.js, Tailwind CSS, Redux, HTML5, CSS3
+* **Backend:** Node.js, Express.js, PostgreSQL, MongoDB
+* **Tools:** Git, Postman, Vercel
 
 ---
 
