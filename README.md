@@ -46,17 +46,6 @@ I help founders and businesses build scalable **SaaS products** and high-perform
 I am currently available for freelance work. Let's discuss how I can bring your idea to life.
 
 <div align="left">
-  <!-- Upwork -->
-  <a href="https://www.upwork.com/freelancers/~01d77f12fef7ecb355" target="_blank">
-    <img src="https://skillicons.dev/icons?i=upwork" height="40" alt="Upwork" />
-  </a>
-  
-  <!-- LinkedIn (Linkini değiştir) -->
-  <a href="https://www.linkedin.com/in/SENIN-LINKIN/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-
-  <!-- Email (Mailini değiştir) -->
   <a href="mailto:seninmailin@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
